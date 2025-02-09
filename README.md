@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **Antoine** aka **@AnToIn-E-CoDe**
 - 👀 I’m interested in Software and Applications
-- 🌱 I’m currently learning Python and Typescript
 
 - ⚡ Fun fact: There are 10 types of developer, those who understand binary and those who don't.
 
