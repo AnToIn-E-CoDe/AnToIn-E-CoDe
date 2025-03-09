@@ -13,7 +13,7 @@ Passionate about algorithms and creative problem-solving, I aim to build innovat
 - 🏙️ **Location**: Paris, France  
 - 🔥 **Passionate about**: Algorithms, AI, and creative coding  
 - 🚀 **Currently learning**: Rust & React  
-- 🎯 **Hobbies**: Open-source, game development, and competitive programming  
+- 🎯 **Hobbies**: Development, Music, Art
 - ⚡ **Fun fact**: *I'm Batman... or am I?* 😶‍🌫️  
 
 <div align="center">
