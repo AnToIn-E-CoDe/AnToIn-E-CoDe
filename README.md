@@ -79,15 +79,6 @@ A lightweight image editor built with Rust & `eframe`, allowing users to edit, f
 </p>
 
 
-
----
-
-## 🏆 Competitive Programming  
-
-<a href="https://www.codewars.com/users/AnToIn-E-CoDe">
-  <img src="https://github.r2v.ch/codewars?user=AnToIn-E-CoDe&stroke=red" alt="Codewars Profile"/>
-</a>
-
 ---
 
 🚀 **Keep coding and stay awesome!** 🎯
