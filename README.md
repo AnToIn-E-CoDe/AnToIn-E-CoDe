@@ -63,7 +63,7 @@ A lightweight image editor built with Rust & `eframe`, allowing users to edit, f
 
 <p align="center">
   <a href="https://github.com/AnToIn-E-CoDe/image-editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnToIn-E-CoDe&repo=image-editor&theme=ambient_gradient" alt="Image Editor Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnToIn-E-CoDe&repo=image-editor&theme=radical" alt="Image Editor Repo" />
   </a>
 </p>
 
@@ -71,11 +71,16 @@ A lightweight image editor built with Rust & `eframe`, allowing users to edit, f
 ---
 
 ## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnToIn-E-CoDe&show_icons=true&theme=radical"  height="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnToIn-E-CoDe&theme=radical" height="50%"/>
+  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnToIn-E-CoDe&layout=compact&langs_count=8&theme=radical" />
+</p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnToIn-E-CoDe" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnToIn-E-CoDe&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnToIn-E-CoDe&theme=tokyonight" width="45%" />
-</div>
+
 
 ---
 
