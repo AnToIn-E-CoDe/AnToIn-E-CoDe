@@ -72,7 +72,6 @@ A lightweight image editor built with Rust & `eframe`, allowing users to edit, f
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnToIn-E-CoDe&show_icons=true&theme=radical"  height="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnToIn-E-CoDe&theme=radical" height="50%"/>
   </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnToIn-E-CoDe&layout=compact&langs_count=8&theme=radical" />
